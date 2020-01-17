@@ -118,6 +118,9 @@ public final class Main {
   /**
   ** IMPLEMENT METHOD runSparkServer() HERE
   */
+  private void runSparkServer(int port) {
+    // TODO
+  }
 
   /**
    * Display an error page when an exception occurs in the server.
