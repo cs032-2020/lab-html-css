@@ -5,5 +5,5 @@ where list of files is a string with each file path separated by commas and no s
 
 This will give you a barebones REPL, where you can enter text and you will be output at most 5 suggestions sorted alphabetically.
 
-To run use in command line use:
+To run the GUI from command line add the following flags to the above:
 `./run --gui [--port=<port>]`

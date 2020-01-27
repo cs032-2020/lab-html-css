@@ -98,7 +98,7 @@ public final class Main {
             }
     } else {
         System.out.println("ERROR: usage");
-        System.out.print("./run --data=<list of files> \n[--prefix] [--whitespace] [--led=<led>]\n");
+        System.out.print("./run --data=<list of files> \n[--prefix] [--whitespace] [--led=<led>]\n[--gui] [--port=<port>]\n");
     }
   }
 
